@@ -1,0 +1,12 @@
+{
+  "name": "BL0492",
+  "keywords": "BL0492, voltate, current, energy, sensor, Arduino, ESP8266, ESP32",
+  "description": "Arduino library for the digital energy metering BL0492 IC. Arduino, ESP8266 & ESP32 compatible.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kisrkk/BL0492.git"
+  },
+  "frameworks": "arduino",
+  "platforms": ["atmelavr", "atmelsam", "espressif8266", "espressif32", "stm32"],
+  "version": "1.0.0"
+}

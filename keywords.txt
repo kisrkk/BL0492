@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For BL0492
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+BL0492	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+BL0492_CONTINUOUS_HIGH_RES_MODE	    LITERAL1
+BL0492_CONTINUOUS_HIGH_RES_MODE_2	LITERAL1
+BL0492_CONTINUOUS_LOW_RES_MODE	    LITERAL1
+BL0492_ONE_TIME_HIGH_RES_MODE	    LITERAL1
+BL0492_ONE_TIME_HIGH_RES_MODE_2	    LITERAL1
+BL0492_ONE_TIME_LOW_RES_MODE	    LITERAL1
+BL0492_DEFAULT_MTREG	            LITERAL1
